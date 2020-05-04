@@ -2409,12 +2409,19 @@
 		imageLink: './Art/daredevil/daredevil.gif',
 		author: 'Vivek Raj',
 		githubLink: 'https://github.com/vivekrajx',
-	}
+	},
 	{
       	artName: "hover Me",
      	 pageLink: "./Art/hoverMe/index.html",
       	author: 'Bleron88',
 		githubLink: 'https://github.com/bleron88',
+	},
+	{
+		artName: 'flipper',
+		pageLink: './Art/priyank-hub/profile.html',
+		imageLink: './Art/priyank-hub/animation.gif',
+		author: 'priyank-hub',
+		githubLink: 'https://github.com/priyank-hub',
 	}
 ];
 
